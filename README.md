@@ -15,19 +15,19 @@ Welcome to the most over-engineered, thread-parallel, memory-optimized, and slig
    ```bash
    git clone https://github.com/NoMachine1/BSGS
    cd bsgs-solver
-  ```
+  
 
 3. Install dependencies (warning: may cause existential dread):
 
   ```bash
    sudo apt install libgmp-dev libomp-dev xxhash pigz
-   ```
+   
 
 4. Compile with maximum optimization (because we're "professionals" here):
 
   ```bash
    make
-   ```
+   
 
 🎮 Usage
 
@@ -35,13 +35,13 @@ Basic command (for mere mortals):
 
 ```bash
 ./bsgs -p 30 -k 03abcdef...xyz
-```
+
 
 Pro mode (because you have a Threadripper and want to show off):
 
 ```bash
 ./bsgs -p 40 -k 03abcdef...xyz -t 32 -v
-```
+
 
 🧠 How It Works (The "Magic")
 1. Baby Steps: Creates a huge lookup table (then compresses it because we're not animals)
