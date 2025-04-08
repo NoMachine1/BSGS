@@ -25,8 +25,9 @@ Welcome to the most over-engineered, thread-parallel, memory-optimized, and slig
 
 4. Compile with maximum optimization (because we're "professionals" here):
 
-  ```bash
+```bash
    make
+
    
 
 🎮 Usage
@@ -37,10 +38,12 @@ Basic command (for mere mortals):
 ./bsgs -p 30 -k 03abcdef...xyz
 
 
+
 Pro mode (because you have a Threadripper and want to show off):
 
 ```bash
 ./bsgs -p 40 -k 03abcdef...xyz -t 32 -v
+
 
 
 🧠 How It Works (The "Magic")
