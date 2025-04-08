@@ -22,7 +22,7 @@ Welcome to the most over-engineered, thread-parallel, memory-optimized, and slig
    ```
 4. Compile with maximum optimization (because we're professionals here):
    ```
-   g++ -O3 -fopenmp -march=native -o bsgs bsgs.cpp -lgmp -lxxhash
+   make
    ```
 🎮 Usage
 
