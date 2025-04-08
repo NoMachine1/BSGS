@@ -1,4 +1,4 @@
-/*
+
 🕵️‍♂️ BSGS (Baby-Step Giant-Step) Bitcoin Puzzle Solver - Manual
 
 Welcome to the most over-engineered, thread-parallel, memory-optimized, and slightly obsessive Bitcoin puzzle solver! This tool will either:
@@ -12,7 +12,7 @@ Welcome to the most over-engineered, thread-parallel, memory-optimized, and slig
 🚀 Installation
 
 1. Clone this repo (if you can find it in the sea of other puzzle solvers):
-   git clone https://github.com/yourusername/bsgs-solver.git
+   git clone https://github.com/NoMachine1/BSGS
    cd bsgs-solver
 
 2. Install dependencies (warning: may cause existential dread):
@@ -57,5 +57,5 @@ Pro mode (because you have a Threadripper and want to show off):
 📜 Final Warning
 This tool comes with absolutely no warranty, except the guarantee that it will make you obsessively check the output every 5 minutes. Happy hunting!
 
-Made with ❤️, caffeine, and the faint hope of solving Puzzle #64 before retirement.
-*/
+Made with ❤️, caffeine.
+bc1qdwnxr7s08xwelpjy3cc52rrxg63xsmagv50fa8
