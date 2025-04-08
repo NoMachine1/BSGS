@@ -20,7 +20,7 @@ Welcome to the most over-engineered, thread-parallel, memory-optimized, and slig
    ```
    sudo apt install libgmp-dev libomp-dev xxhash pigz
    ```
-4. Compile with maximum optimization (because we're professionals here):
+4. Compile with maximum optimization (because we're "professionals" here):
    ```
    make
    ```
