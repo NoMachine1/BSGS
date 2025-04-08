@@ -1,4 +1,3 @@
-
 🕵️‍♂️ BSGS (Baby-Step Giant-Step) Bitcoin Puzzle Solver - Manual
 
 Welcome to the most over-engineered, thread-parallel, memory-optimized, and slightly obsessive Bitcoin puzzle solver! This tool will either:
@@ -40,13 +39,13 @@ Pro mode (because you have a Threadripper and want to show off):
 3. Profit: Either finds your private key or turns your computer into a space heater
 
 💾 Storage Requirements
-| Puzzle # | Approx. Table Size | Chance of Success |
-|----------|--------------------|-------------------|
-| 30       | 200MB              | 😊 Plausible      |
-| 40       | 2GB              | 😅 Fine     |
-| 50       | 20GB              | 😅 Good luck |
-| 60+      | 200GB | 🤣 See you in 2050 |
-| 70+      | More than all HDDs | 🚀 Quantum time!  |
+| Puzzle # | Approx. Table Size | Chance of Success  |
+|----------|--------------------|------------------- |
+| 30       | 200MB              | 😊 Plausible       |
+| 40       | 2GB                | 😅 Fine            |
+| 50       | 20GB               | 😅 Good luck       |
+| 60+      | 200GB              | 🤣 See you in 2050 |
+| 70+      | More than all HDDs | 🚀 Quantum time!   |
 
 ⚠️ Known Issues
 1. Your electricity bill might increase
